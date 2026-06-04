@@ -35,7 +35,7 @@ Event ticketing and management platform with checkout, collaborators, ticket sca
 **Stack:** React · Node.js · Python · AWS · Cloudflare
 
 ### PassLP
-Web ticketing platform for horse racing events with event management, checkout, users, roles, invitations and promoters.
+Web ticketing platform for events with event management, checkout, users, roles, invitations and promoters.
 
 **Stack:** React · NestJS · AWS · Cloudflare
 
